@@ -18,7 +18,7 @@
 </a>
 <p dir="auto"><img src="https://api.visitorbadge.io/api/visitors?path=prabhukum&label=VIEWERS&labelColor=%23d9e3f0&countColor=%232ccce4" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=Prabhukum.Prabhukum" style="max-width: 100%;"></a></p>
 <br>
-<p dir="auto">hi, i'm <a href="https://abhishknads.me/" rel="nofollow">Prabhukumar</a>, a passionate self-taught Software tester and a freelance software frontend developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I test.</p>
+<p dir="auto">hi, i'm <a href="http://127.0.0.1:5500/Prabhu-devops.github.io-main/index.html#about" rel="nofollow">Prabhukumar</a>, a passionate self-taught Software tester and a freelance software frontend developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I test.</p>
 <p dir="auto">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
   <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" data-animated-image="" style="max-width: 100%;"></a></p>
 <ul dir="auto">
