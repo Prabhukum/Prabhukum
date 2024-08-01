@@ -1,24 +1,22 @@
 <a href="www.gmail.com">nelsonprabhu07088@gmail.com</a> / README.md
-<p><b>hey there</b></p>
-<a href="#hey-there"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a></h3>
+<p><b>Hey there!!!😃✌
+<!-- <a href="https://instagram.com/nelzon_praboo?igshid=YmMyMTA2M2Y=/" rel="nofollow">
+  <img align="left" alt="Prabhu Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
+</a> -->
+</b>
+</p>
 
-<a href="https://instagram.com/nelzon_praboo?igshid=YmMyMTA2M2Y=/" rel="nofollow">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
-</a>
+
 <!--
 <a href="" rel="nofollow">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
+  <img align="left" alt="Prabhu Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
 </a>
-<a href="https://twitter.com/abhisheknaiidu" rel="nofollow">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-</a>
--->
-<a href="https://www.linkedin.com/in/nelson-prabhu-86b988249" rel="nofollow">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
-</a>
+<!-- <a href="https://www.linkedin.com/in/nelson-prabhu-86b988249" rel="nofollow">
+  <img align="left" alt="Prabhu LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+</a> -->
 <p dir="auto"><img src="https://api.visitorbadge.io/api/visitors?path=prabhukum&label=VIEWERS&labelColor=%23d9e3f0&countColor=%232ccce4" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=Prabhukum.Prabhukum" style="max-width: 100%;"></a></p>
 <br>
-<p dir="auto">hi, i'm <a href="http://127.0.0.1:5500/Prabhu-devops.github.io-main/index.html" rel="nofollow">Prabhukumar</a>, a passionate self-taught Software tester and a freelance software frontend developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I test.</p>
+<p dir="auto">Hi, I'm <a href="https://moto.dreamdev.in/" rel="nofollow">Prabhukumar</a>, a passionate self-taught Software Engineer and a freelance software developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I do.</p>
 <p dir="auto">i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
   <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" data-animated-image="" style="max-width: 100%;"></a></p>
 <ul dir="auto">
